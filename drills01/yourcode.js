@@ -1,9 +1,17 @@
 
-function sumArray(){
-	
+function sumArray(array){
+var numbersArray = array;
+var sum = 0;
+for (var i = 0; i < numbersArray.length; i++) {
+  sum += numbersArray[i];
+}
+  return sum;
 }
 
-function fitWithinVal(){
+function fitWithinVal(array, value){
+  // var numbersArray = array;
+  // for
+
 
 }
 
