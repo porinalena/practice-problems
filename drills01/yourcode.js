@@ -9,7 +9,6 @@ function sumArray(array) {
 }
 
 function fitWithinVal(array, value){
-  // debugger;
   var numbersArray = array;
   var sumArray = [];
   var sum = 0;
